@@ -1,0 +1,14 @@
+NIVELES Y TIPOS DE PERMISOS PARA ARCHIVOS
+
+Los permisos de archivos protegen a los directorios para que no se puedan leer ni escribir sin autorizacion.
+Loa tipos de permisos son r- permisos de lectura w- permisos de escritura x- permisos de ejecucion 
+
+Existen tambien 3 categorias de usuarios:
+
+* UNO MISMO - EL USUARIO
+* GRUPO - TODOS LOS USUARIOS CON CUENTA DE ACCESO
+* OTROS - TODOS LOS DEMAS 
+
+Mostrar permisos y estado (ls -l)
+Ya ha utilizado el comando ls para liostar archivos el comando ls dispone de muchas opciones.
+Use la opcion -l para mostrar una lista con formato largo, los archivos y directorios se listan por orden alfabetico.

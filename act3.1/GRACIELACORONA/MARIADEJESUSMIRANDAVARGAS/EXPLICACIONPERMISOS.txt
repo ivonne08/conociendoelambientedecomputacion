@@ -1,0 +1,1 @@
+cuando hacemos archivos y carpetas les ponemos candados para que nadie pueda modificarlos o leerlos y haci cuando una persona solicite el permiso se le de acceso, pero en si es para poder controlar a quien se le quiere dar la indormacion o no
